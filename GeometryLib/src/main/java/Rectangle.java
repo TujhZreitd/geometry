@@ -1,5 +1,3 @@
-package main.java;
-
 public class Rectangle extends Figure implements Drawable {
     private int weight;
     private int height;

@@ -1,5 +1,3 @@
-package main.java;
-
 public class Circle extends Figure implements Drawable {
     private double radius;
     public Circle(String color, double radius) {

@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>GeometryUtils</module>
+        <module>GeometryLib</module>
+        <module>ThreeDimensionalShapes</module>
     </modules>
 
     <properties>

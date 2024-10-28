@@ -1,7 +1,3 @@
-import main.java.Circle;
-import main.java.Figure;
-import main.java.Triangle;
-
 public class Main {
     public static void main(String[] args) {
         Figure circle = new Circle("Red", 12);

@@ -1,5 +1,3 @@
-package main.java;
-
 public class Triangle extends Figure implements Drawable {
     private int firstSide;
     private int secondSide;
